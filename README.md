@@ -1,2 +1,2 @@
 # mRK
-mbed Resource Kernel
+mbed Resource Kernel based on nanoRK
