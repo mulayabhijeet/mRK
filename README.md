@@ -1,2 +1,2 @@
-#test  mRK
+#mRK
 mbed Resource Kernel based on nanoRK
